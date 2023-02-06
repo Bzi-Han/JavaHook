@@ -1,0 +1,6 @@
+build
+
+*.tmp
+
+main.cc
+settings.json
